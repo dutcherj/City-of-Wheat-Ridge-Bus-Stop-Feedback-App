@@ -23,8 +23,8 @@ While working with the city on a broader effort to optimize public infrastructur
 - **Web version** using a clean HTML form  
 
 ## File Structure  
-<pre>├── Index.html # Web form interface (HTML, CSS, JS)
-├── Code.gs # Backend script to store reports in Google Sheets
+<pre> ├── Code.gs # Backend script to store reports in Google Sheets
+├── Index.html # Web form interface (HTML, CSS, JS)
 ├── LICENSE # Terms of use for this project
 └── README.md # This file </pre>
 
