@@ -23,10 +23,10 @@ While working with the city on a broader effort to optimize public infrastructur
 - **Web version** using a clean HTML form  
 
 ## File Structure  
-├── Index.html # Web form interface (HTML, CSS, JS)
+<pre>├── Index.html # Web form interface (HTML, CSS, JS)
 ├── Code.gs # Backend script to store reports in Google Sheets
 ├── LICENSE # Terms of use for this project
-└── README.md # This file
+└── README.md # This file </pre>
 
 
 ## How to Use / Deploy  
