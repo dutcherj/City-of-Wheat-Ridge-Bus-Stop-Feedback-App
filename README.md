@@ -6,6 +6,24 @@ This project was developed for the **City of Wheat Ridge** to streamline the pro
 
 The goal was to create a **lightweight, accessible, and replicable tool** that uses **GPS-enabled web forms** and optionally integrates **SMS-based reporting**—all built on widely available platforms like **Google Apps Script and Google Sheets**. This project supports the city’s commitment to responsive public service and infrastructure upkeep.
 
+## Live App
+You can access the deployed version of the Bus Stop Maintenance Reporting form here:  
+**[Launch the Reporting Tool](https://script.google.com/macros/s/AKfycbyuj4e472X-SSxlLKR1ZkvSM5-j1bBIscWInax_If4SqKq898bQwbOkwX0OnrfsXhkEgQ/exec)**
+
+## Screenshots
+
+### QR Code for Mobile Access  
+Scan the QR code below to open the reporting tool on your phone:
+
+![QR Code](https://drive.google.com/file/d/1sVPcvDY9auFN-s2hvRGSMg3-R2qjv3Fh/view?usp=sharing)
+
+
+### Web Form Interface  
+A preview of the reporting form as it appears in a browser:
+
+![Web Form Screenshot](https://drive.google.com/file/d/1xj8r0qoCT9wmQg25Hlj-CriaNE6qaMlG/view?usp=sharing)
+
+
 ## Why This Was Built  
 While working with the city on a broader effort to optimize public infrastructure and maintenance (including route planning and pavement condition analysis), it became clear that bus stop issues were often underreported or inefficiently managed. This tool was designed to:
 
