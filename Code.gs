@@ -20,7 +20,7 @@ function doGet(e) {
 function submitForm(formObject) {
   try {
     // Step 1: Define the target Google Sheet by its ID
-    const SPREADSHEET_ID = '14O8rYfBXHoXLJMx5E9YDcDZFp5eiV8bOqcCRWM_EYGQ';
+    const SPREADSHEET_ID = '.'; // Replace with sheet ID
 
     // Step 2: Open the spreadsheet and target the correct sheet tab
     const spreadsheet = SpreadsheetApp.openById(SPREADSHEET_ID);
