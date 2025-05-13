@@ -15,13 +15,18 @@ You can access the deployed version of the Bus Stop Maintenance Reporting form h
 ### QR Code for Mobile Access  
 Scan the QR code below to open the reporting tool on your phone:
 
-![QR Code](https://drive.google.com/file/d/1sVPcvDY9auFN-s2hvRGSMg3-R2qjv3Fh/view?usp=sharing)
-
+<img src="https://drive.google.com/uc?export=view&id=1sVPcvDY9auFN-s2hvRGSMg3-R2qjv3Fh" alt="QR Code" width="300"/>
 
 ### Web Form Interface  
-A preview of the reporting form as it appears in a browser:
+A preview of the reporting form as it appears in a mobile browser:
 
-![Web Form Screenshot](https://drive.google.com/file/d/1xj8r0qoCT9wmQg25Hlj-CriaNE6qaMlG/view?usp=sharing)
+<img src="https://drive.google.com/uc?export=view&id=1WmZBf8Xfbh2l3O4GUX607KGpwz3EvCj5" alt="Web Form Screenshot" width="300"/>
+
+
+### Submitted Data in Google Sheets
+All records are stored on the `WebApp` tab of the Google Sheet linked via the `SPREADSHEET_ID` variable in the `Code.gs` file.
+
+![View Data Sheet](https://drive.google.com/uc?export=view&id=1xj8r0qoCT9wmQg25Hlj-CriaNE6qaMlG)
 
 
 ## Why This Was Built  
