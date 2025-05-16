@@ -1,5 +1,4 @@
 # Bus Stop Maintenance Reporting System  
-**Author:** Jason Dutcher
 
 ## Overview  
 This project was developed for the **City of Wheat Ridge** to streamline the process of reporting maintenance issues at bus stops. It enables residents, field staff, or contractors to quickly submit concerns such as trash overflow, graffiti, snow buildup, or damaged infrastructure.
